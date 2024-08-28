@@ -149,5 +149,3 @@ This project is licensed under the MIT License. See the `LICENSE` file for more 
 - OSC communication is handled to interface with Wekinator for real-time sound gesture recognition.
 
 ---
-
-Este archivo `README.md` documenta los aspectos clave del código y explica cómo configurarlo, ejecutarlo, y cómo interactúa con Wekinator para el reconocimiento de gestos sonoros. Asegúrate de ajustar las rutas de los archivos y las configuraciones específicas según sea necesario para tu entorno.
